@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}*/
+html {
+    font-size: 62.5%;
+}
+.box{
+    width: 100vw;
+    height: 5rem;
+    background-image: linear-gradient(red,yellow);
+    color: white;
+    font-size: 3rem;
+} 
+h2.sub-heading:hover{
+    color: rgb(195, 44, 152);
+}
+div h2 {
+    font-size: 4rem;
+}
+div h2:visited{
+    color: white;
+}
+div h2 :hover{
+    color: red;
+}
+ .gun-box {
+    height: 20rem;
+    width: 25rem;
+    background-color: aqua;  
+    background-image: linear-gradient(blue,aqua); 
+}
+img {
+        width: 15rem;
+        height: 10rem;
+    }
+div button {
+    width: 4rem;
+    height: 2rem;
+}
+h1.box:active{
+    color:black;
+}
+div button:hover {
+    background-color: rgb(39, 148, 179);
+}
+#youtube-link:hover{
+    color: red;
+    font-size: 1.5rem;
+    width:50%;
+    height: 1.6rem;
+    background-color: antiquewhite;
+}
+#youtube-link:visited{
+    color:rgb(254, 0, 0);
+}
+.de {
+  height: 25rem;
+    width: 25rem;
+    background-color: aqua;  
+    background-image: linear-gradient(blue,aqua);
+}
